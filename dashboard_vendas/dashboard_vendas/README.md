@@ -1,4 +1,4 @@
-# 🛒 Dashboard de KPIs — Sistema de Vendas
+# Dashboard de KPIs — Sistema de Vendas
 
 ## Descrição do Sistema
 
