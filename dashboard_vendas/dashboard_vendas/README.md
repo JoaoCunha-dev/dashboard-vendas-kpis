@@ -8,6 +8,13 @@ O objetivo é permitir a análise de desempenho comercial através de indicadore
 (KPIs) extraídos diretamente de consultas SQL sobre o banco relacional.
 
 ---
+##  Prints do Dashboard
+<img width="1029" height="922" alt="Captura de tela 2026-05-26 193239" src="https://github.com/user-attachments/assets/953993be-00f2-4255-b3ba-d1cd758ea04c" />
+
+<img width="1007" height="685" alt="Captura de tela 2026-05-26 193249" src="https://github.com/user-attachments/assets/04f4722a-05eb-4f63-8a29-db476fa46169" />
+
+<img width="1011" height="860" alt="Captura de tela 2026-05-26 193300" src="https://github.com/user-attachments/assets/a87cf6e9-512b-4239-8da2-d36522a21902" />
+
 
 ## Estrutura do Banco de Dados
 
@@ -102,5 +109,9 @@ pip install -r requirements.txt
 # 3. Criar banco e popular dados (pgAdmin4)
 
 # 4. Rodar o dashboard
+
+
+
+
 streamlit run dashboard.py
 ```
